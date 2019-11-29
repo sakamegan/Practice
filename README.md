@@ -1,2 +1,5 @@
 # Practice
+
 Beginner
+
+:coffee:, :pizza:
